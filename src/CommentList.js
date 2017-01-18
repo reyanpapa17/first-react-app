@@ -4,7 +4,7 @@ class CommentList extends Component {
   render () {
     return (
       <div className="commentList">
-        Hello, world! I am a CommentList.
+        Hello, world! I am Rey-An.
       </div>      
     );
   }
